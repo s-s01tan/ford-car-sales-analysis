@@ -33,4 +33,4 @@ This report presents the findings from the analysis conducted on the dataset pro
 - Continuous monitoring and refinement of the model may be necessary as new data becomes available or as the underlying relationships between features and price change over time.
 
 ---
-This managerial report summarizes the analysis findings and provides actionable recommendations based on the results. If you have any further questions or need additional information, please feel free to reach out.
+This managerial report summarizes the analysis findings and provides actionable recommendations based on the results.
